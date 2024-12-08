@@ -149,7 +149,7 @@ export default function Roulette() {
 
             <NoSpinsNotification message="У вас закончились вращения" isVisible={showNoSpinsNotification} />
 
-            <WinModal isOpen={showWinModal} onClose={() => setShowWinModal(false)} winAmount={"5000_rub"} />
+            <WinModal isOpen={showWinModal} onClose={() => setShowWinModal(false)} winAmount={winAmount} />
             <PrizeModal isOpen={showPrizeModal} onClose={() => setShowPrizeModal(false)} />
             <TutorialModal isOpen={showTutorial} onClose={() => setShowTutorial(false)} />
         </div>

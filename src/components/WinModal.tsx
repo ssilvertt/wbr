@@ -32,7 +32,7 @@ export default function WinModal({ isOpen, onClose, winAmount }: WinModalProps) 
                     onClick={onClose}
                 >
                     <div
-                        className="bg-black rounded-[15px] p-6 w-[350px] h-[300px] mx-4 relative overflow-hidden"
+                        className="bg-black rounded-[15px] p-6 w-[350px] h-[320px] mx-4 relative overflow-hidden"
                         onClick={(e) => e.stopPropagation()}
                     >
                         <div
@@ -54,7 +54,7 @@ export default function WinModal({ isOpen, onClose, winAmount }: WinModalProps) 
                                 ВЫ {` `}
                                 <span className="relative inline-block text-[#FF31D2]">
                                     ВЫИГРАЛИ
-                                    <span className="absolute left-0 -translate-y-2 blur-[25px] text-[#FF31D2]">
+                                    <span className ="absolute left-0 -translate-y-2 blur-[25px] text-[#FF31D2]">
                                         ВЫИГРАЛИ
                                     </span>
                                     <div className="-mt-1">
@@ -64,6 +64,11 @@ export default function WinModal({ isOpen, onClose, winAmount }: WinModalProps) 
                                             className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-[167px] h-[1px] rounded-[18px] bg-gradient-to-r from-[rgba(225,0,168,0)] to-[rgb(225,0,168)] blur-[10px]" />
                                     </div>
                                 </span>
+                                <br/>
+                                
+                            </div>
+                            <div className='text-[15px] font-proxima font-bold leading-[110%] mt-2 opacity-100 tracking-[-2%] text-center'>
+                                ВОЗМОЖНОСТЬ ПОЛУЧИТЬ
                             </div>
                             <div
                                 className="text-[51.3px] font-proxima font-[800] leading-[110%] tracking-[-2%] text-center relative overflow-visible mt-4">

@@ -4,10 +4,6 @@ GREEN='\033[0;32m'
 BLUE='\033[0;34m'
 NC='\033[0m'
 
-SERVER="root@194.58.57.184"
-DEPLOY_PATH="/var/www/ruletka/"
-PASSWORD="c2y-9Q#4LQ*zyu"
-
 echo -e "${BLUE}🚀 Starting deployment...${NC}"
 
 echo -e "${BLUE}📦 Building project...${NC}"

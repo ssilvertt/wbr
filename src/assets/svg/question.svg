@@ -1,0 +1,27 @@
+<svg width="20.000000" height="20.000000" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="10.000000" y1="0.000000" x2="10.000000" y2="20.000000" id="paint_linear_1_463_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#69D3FF"/>
+			<stop offset="1.000000" stop-color="#00A4E8"/>
+		</linearGradient>
+		<linearGradient x1="10.255161" y1="0.000000" x2="10.255161" y2="19.710983" id="paint_linear_1_463_1" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFB500"/>
+			<stop offset="1.000000" stop-color="#F3BA2F"/>
+		</linearGradient>
+		<linearGradient x1="10.000000" y1="20.000000" x2="10.000000" y2="0.000000" id="paint_linear_1_463_2" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF60D7"/>
+			<stop offset="1.000000" stop-color="#E100A8"/>
+		</linearGradient>
+	</defs>
+	<rect id="Rectangle 34625118" rx="10.000000" width="20.000000" height="20.000000" fill="#D9D9D9" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625118" rx="10.000000" width="20.000000" height="20.000000" fill="url(#paint_linear_1_463_0)" fill-opacity="0"/>
+	<rect id="Rectangle 34625118" rx="10.000000" width="20.000000" height="20.000000" fill="url(#paint_linear_1_463_1)" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625118" rx="10.000000" width="20.000000" height="20.000000" fill="#151517" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625118" rx="10.000000" width="20.000000" height="20.000000" fill="url(#paint_linear_1_463_2)" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625118" x="0.276367" y="0.276382" rx="9.723619" width="19.447237" height="19.447237" stroke="#050505" stroke-opacity="0" stroke-width="0.552764"/>
+	<rect id="Rectangle 34625118" x="0.276367" y="0.276382" rx="9.723619" width="19.447237" height="19.447237" stroke="#FF72DB" stroke-opacity="0.500000" stroke-width="0.552764"/>
+	<path id="?" d="M8.67 10.09C8.67 10.58 8.84 10.99 9.13 11.31L10.64 10.87C10.5 10.74 10.39 10.51 10.39 10.29C10.39 9.12 12.71 8.97 12.71 6.94C12.71 5.65 11.61 4.75 9.82 4.75C8.63 4.75 7.52 5.24 6.79 6.1L7.91 7.36C8.34 6.85 8.92 6.5 9.62 6.5C10.38 6.5 10.7 6.86 10.7 7.29C10.7 8.25 8.67 8.44 8.67 10.09ZM8.67 13.17C8.67 13.78 9.19 14.29 9.8 14.29C10.41 14.29 10.92 13.78 10.92 13.17C10.92 12.56 10.41 12.05 9.8 12.05C9.19 12.05 8.67 12.56 8.67 13.17Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>

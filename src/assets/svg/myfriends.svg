@@ -1,0 +1,32 @@
+<svg width="79.000000" height="79.000000" viewBox="0 0 79 79" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_93_dd" x="0.000000" y="0.000000" width="79.000000" height="79.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="8.3"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<filter id="filter_1_94_dd" x="19.544922" y="19.546387" width="39.907227" height="39.907227" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="23.6186"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<linearGradient x1="39.500000" y1="0.000000" x2="39.500000" y2="79.000000" id="paint_linear_1_93_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FB48FF"/>
+			<stop offset="0.627766" stop-color="#FB48FF" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_1_93_dd)">
+		<circle id="Ellipse 2236" cx="39.500000" cy="39.500000" r="39.500000" fill="#FB48FF" fill-opacity="0.100000"/>
+		<circle id="Ellipse 2236" cx="39.500000" cy="39.500000" r="39.000000" stroke="url(#paint_linear_1_93_0)" stroke-opacity="0.300000" stroke-width="1.000000"/>
+	</g>
+	<g filter="url(#filter_1_94_dd)">
+		<rect id="Iconly/Curved/Bold/2 User" rx="0.000000" width="38.990978" height="38.990978" transform="translate(20.003040 20.004505)" fill="#FFFFFF" fill-opacity="0"/>
+		<path id="Vector" d="M35.42 39.12L35.37 39.12C33.21 39.11 31.19 38.27 29.67 36.74C28.15 35.21 27.32 33.18 27.33 31.03C27.33 26.57 30.96 22.94 35.42 22.94C39.88 22.94 43.51 26.57 43.51 31.03C43.51 35.49 39.88 39.12 35.42 39.12ZM46.18 37.61L46.13 37.61C45.38 37.61 44.65 37.48 43.98 37.23C45.25 35.48 46 33.34 46 31.03C46 28.83 45.33 26.79 44.18 25.09C44.82 24.89 45.48 24.77 46.18 24.77C49.72 24.77 52.6 27.65 52.6 31.19C52.6 34.73 49.72 37.61 46.18 37.61ZM41.02 41.02C42.52 40.39 44.3 40.01 46.18 40.01C51.35 40.01 55.72 42.85 55.72 46.22C55.72 49.05 52.8 50.07 50.07 50.43C49.99 46.19 46.28 42.55 41.02 41.02ZM35.42 42.73C28.83 42.73 23.27 46.33 23.27 50.59C23.27 55.48 30.2 56.05 35.42 56.05C38.42 56.05 47.57 56.05 47.57 50.56C47.57 46.32 42.01 42.73 35.42 42.73Z" fill="#FB48FF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<rect id="Iconly/Curved/Bold/2 User" rx="0.000000" width="38.990978" height="38.990978" transform="translate(20.003040 20.004505)" stroke="#FFFFFF" stroke-opacity="0" stroke-width="0.916237"/>
+	</g>
+</svg>

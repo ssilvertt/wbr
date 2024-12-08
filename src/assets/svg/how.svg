@@ -1,0 +1,23 @@
+<svg width="30.124146" height="30.124172" viewBox="0 0 30.1241 30.1242" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="15.062086" y1="0.000000" x2="15.062086" y2="30.124172" id="paint_linear_1_1385_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#69D3FF"/>
+			<stop offset="1.000000" stop-color="#00A4E8"/>
+		</linearGradient>
+		<linearGradient x1="15.446413" y1="0.000000" x2="15.446413" y2="29.688852" id="paint_linear_1_1385_1" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFB500"/>
+			<stop offset="1.000000" stop-color="#F3BA2F"/>
+		</linearGradient>
+	</defs>
+	<rect id="Rectangle 34625119" rx="8.325776" width="30.124172" height="30.124172" fill="#D9D9D9" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625119" rx="8.325776" width="30.124172" height="30.124172" fill="url(#paint_linear_1_1385_0)" fill-opacity="0"/>
+	<rect id="Rectangle 34625119" rx="8.325776" width="30.124172" height="30.124172" fill="url(#paint_linear_1_1385_1)" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625119" rx="8.325776" width="30.124172" height="30.124172" fill="#151517" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625119" rx="8.325776" width="30.124172" height="30.124172" fill="#E100A8" fill-opacity="1.000000"/>
+	<rect id="Rectangle 34625119" x="0.416260" y="0.416290" rx="8.325776" width="29.291595" height="29.291595" stroke="#050505" stroke-opacity="0" stroke-width="0.832578"/>
+	<rect id="Rectangle 34625119" x="0.416260" y="0.416290" rx="8.325776" width="29.291595" height="29.291595" stroke="#FF72DB" stroke-opacity="0.500000" stroke-width="0.832578"/>
+	<path id="Subtract" d="M24.9135 15.6139C24.9135 21.0377 20.5043 25.4346 15.0652 25.4346C9.6261 25.4346 5.21692 21.0377 5.21692 15.6139C5.21692 10.19 9.6261 5.79309 15.0652 5.79309C20.5043 5.79309 24.9135 10.19 24.9135 15.6139ZM13.5366 16.2934C13.5366 16.866 13.7329 17.3568 14.0764 17.7331L15.8596 17.2096C15.696 17.0623 15.5652 16.7842 15.5652 16.5224C15.5652 15.1482 18.2972 14.9683 18.2972 12.5798C18.2972 11.0583 17.0049 9.99494 14.8944 9.99494C13.4875 9.99494 12.1787 10.5675 11.3116 11.5818L12.6368 13.0706C13.1439 12.4652 13.8311 12.0563 14.649 12.0563C15.5488 12.0563 15.925 12.4816 15.925 12.9888C15.925 14.1176 13.5366 14.3466 13.5366 16.2934ZM13.5366 19.9253C13.5366 20.6451 14.1418 21.2504 14.8617 21.2504C15.5815 21.2504 16.1869 20.6451 16.1869 19.9253C16.1869 19.2054 15.5815 18.6001 14.8617 18.6001C14.1418 18.6001 13.5366 19.2054 13.5366 19.9253Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
